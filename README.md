@@ -11,8 +11,7 @@ Application allows the user to add and subtract funds to tract thier budget
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [License](#License)
-* [Contributing](#Contributing)
-* [Tests](#Tests)
+* [Pictures](#Pictures)
 * [Questions](#Questions)
 
 ## Installation
@@ -25,11 +24,8 @@ Type in the name or short description of the transaction and the amount, then cl
 Mozzila Public License 2.0
 Please review [https://opensource.org/licenses/MPL-2.0](https://opensource.org/licenses/MPL-2.0) to understand the license.
 
-## Contributing
-
-
-## Tests
-
+## Pictures
+![image](https://user-images.githubusercontent.com/77998885/117232282-77dd3080-ade6-11eb-8c25-064a6d4604e3.png)
 
 ## Questions
 Come checkout my Github!
